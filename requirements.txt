@@ -1,0 +1,7 @@
+langchain_experimental
+langchain_core
+google-generativeai
+google-ai-generativelanguage
+langchain-google-genai
+langchain
+python-dotenv
